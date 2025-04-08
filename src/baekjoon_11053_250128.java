@@ -1,10 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-
-
 public class baekjoon_11053_250128 {
-
 
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
